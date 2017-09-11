@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=MMR
+Comment=MMR P2P Cryptocurrency
+Comment[fr]=MMR, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=MMR, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/MMR-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/MMR;
+Categories=Office;

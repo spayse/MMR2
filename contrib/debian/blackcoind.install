@@ -1,0 +1,2 @@
+debian/bin/MMRd usr/bin
+src/MMRd usr/lib/MMR

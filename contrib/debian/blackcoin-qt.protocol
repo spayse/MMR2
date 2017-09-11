@@ -1,0 +1,11 @@
+[Protocol]
+exec=MMR-qt '%u'
+protocol=MMR
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false
